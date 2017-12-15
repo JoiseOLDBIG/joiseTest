@@ -1,0 +1,9 @@
+
+
+#bike {
+  position: absolute;
+  min-width: 320px;
+  width: 80%;
+  max-width: 80%;
+  opacity: 0;
+}
